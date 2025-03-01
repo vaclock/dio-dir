@@ -183,7 +183,7 @@
           <mxGeometry x="65" y="1080" width="250" height="290" as="geometry" />
         </mxCell>
         <mxCell id="XKTfgiKheDoKflJEw_Nu-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="427.5" width="260" height="72.5" as="geometry" />
+          <mxGeometry x="980" y="427.5" width="60" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="XKTfgiKheDoKflJEw_Nu-98" value="年" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="435" width="60" height="30" as="geometry" />
